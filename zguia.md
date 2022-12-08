@@ -15,7 +15,7 @@
 
 ## **A navegação**
 
-Para o menu de navegação, use a tah ```<nav></nav>``` e coloque a lista não ordenada como conteúdo da tag.
+Para o menu de navegação, use a tag ```<nav></nav>``` e coloque a lista não ordenada como conteúdo da tag.
 
 ## **Página imagens.html**
 
