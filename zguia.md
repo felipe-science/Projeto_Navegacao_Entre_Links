@@ -22,7 +22,7 @@ Para o menu de navegação, use a tag ```<nav></nav>``` e coloque a lista não o
 Como conteúdo dessa página, além do que foi pedido, adicionar também
 
 1. As duas imagens que você tem na pasta
-2. Use a tag p para colocar a imagem tag img
+2. Use a tag ```p``` para colocar a imagem tag img
 
 **obs.:** Imagens de tamanho muito grande, poderão não se adaptar bem, mas não se preocupe com isso agora, pois logo aprenderemos como melhorar isso.
 
