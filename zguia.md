@@ -9,13 +9,13 @@
 
 ## **Dentro de cada arquivo .html, você deverá colocar:**
 
-1. Menu de navegação com uma lista <li></li> não ordenada <ul></ul>
-2. Título <h1></h1> da página
-3. Um ou mais parágrafos <p></p> com informações da página
+1. Menu de navegação com uma lista ```<li></li>``` não ordenada ```<ul></ul>```
+2. Título ```<h1></h1>``` da página
+3. Um ou mais parágrafos ```<p></p>``` com informações da página
 
 ## **A navegação**
 
-Para o menu de navegação, use a tah <nav></nav> e coloque a lista não ordenada como conteúdo da tag.
+Para o menu de navegação, use a tah ```<nav></nav>``` e coloque a lista não ordenada como conteúdo da tag.
 
 ## **Página imagens.html**
 
@@ -34,6 +34,6 @@ Como conteúdo dessa página, além do que foi pedido, adicionar também
 
 ### **Dicas**
 
-* Para conteúdo da tag <p></p>, se desejar, poderá fazer o uso do atalho lorem que existe no Visual Studio Code.
+* Para conteúdo da tag ```<p></p>```, se desejar, poderá fazer o uso do atalho lorem que existe no Visual Studio Code.
 Para isso, digite lorem, e em seguida aperte tab.
 Atenção: em alguns computadores isso pode não funcionar, portanto, não se atenha a isso e continue o exercício sem essa dica.
